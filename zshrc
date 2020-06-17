@@ -1,7 +1,8 @@
 # Zsh config
 
 # Requirements
-# You need zgen and exa installed.
+# You need zgen, tmux and exa installed.
+# You also need to place my custom theme the right place
 
 # load zgen
 source "${HOME}/.zgen/zgen.zsh"
